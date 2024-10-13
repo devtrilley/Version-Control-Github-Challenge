@@ -1,0 +1,15 @@
+GitHub Basics Exercise Questions:
+
+Question #1. Explain what the terminal is in your own words:
+The terminal is an application on the users computer that give them access to the command line, which is the text-based user interface, giving us access to the files and directories on our local machines, rather than using the Graphical User Interface or GUI we as novices are accustomed to.
+
+
+Question #2. What is the major difference between Git and GitHub?:
+The primary difference between Git and GitHub is that Git is a version control system that track changes through a projects history. GitHub is a repostiory hosting service that allows you to host your Git repositories, along with its history. GitHub allows you to remotely store your repositories and makes them accessible to potential collaborators.
+
+Question #3. What are the steps to fork a GitHub repository?:
+Step 1) Head to the repository that you would like to fork.
+Step 2) On the upper right side of the repository page, there is a button that says "Fork" that you must click.
+Step 3) You will be taken to a "Create a new fork" page. A "fork" is copy of a repository, so you will be prompted to give your copy a name.
+Step 4) Click on the create fork button
+Step 6) Clone the repository to your computer in order to work on it
